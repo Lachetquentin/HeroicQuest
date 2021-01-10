@@ -3,4 +3,4 @@
 
 ![GitHub version](https://img.shields.io/badge/release-Alpha%20v.0.3-informational)
 ![LICENSE](https://img.shields.io/github/license/Lachetquentin/HeroicQuest)
-[![download latest release](https://img.shields.io/badge/SLAMFINGERS-download-black.svg)](https://github.com/Lachetquentin/HeroicQuest/releases/latest)
+[![download latest release](https://img.shields.io/badge/HEROIC%20QUEST-download-black.svg)](https://github.com/Lachetquentin/HeroicQuest/releases/latest)
