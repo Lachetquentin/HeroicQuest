@@ -1,6 +1,8 @@
 # HeroicQuest
 *An rpg under heavy development and may have a lot of issues, created with the help of RPG Maker MV*
+<br>
 *This version contains bugs that make the game unplayable.
+<br>
 Moreover, the source code of the game has been lost and therefore the project is no longer maintained*
 
 ![GitHub version](https://img.shields.io/badge/release-Alpha%20v.0.3-informational)
